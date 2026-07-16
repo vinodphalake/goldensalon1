@@ -1,0 +1,444 @@
+Prompt for Replit AI
+
+Build a premium, modern, responsive website for a women's salon named FLOURISHH - The Beauty Destination.
+
+The website should look luxurious, elegant, feminine, and premium—not like a generic template. The overall feel should be similar to high-end salon and beauty brand websites.
+
+Brand Details
+
+Business Name
+FLOURISHH - The Beauty Destination (Women's Only)
+
+Business Category
+Women's Salon
+
+Contact Number
+9623982583
+
+Address
+Shop No. 10, Kumar Piccadilly,
+Bhumkar Chowk Road,
+Near Akshara International School,
+Wakad,
+Pune, Maharashtra 411033
+
+Google Rating
+⭐ 4.8 / 5 (1.1K+ Reviews)
+
+Overall Design Style
+
+Create an elegant luxury beauty brand website.
+
+Use:
+
+Soft luxurious gradients
+Premium typography
+Beautiful spacing
+Rounded cards
+Glassmorphism where appropriate
+Smooth transitions
+High-end UI
+Micro interactions
+Scroll animations
+Premium hover effects
+Mobile-first responsive layout
+
+Avoid looking like a WordPress template.
+
+The website should feel custom designed.
+
+Color Palette
+
+Use a premium feminine color palette.
+
+Primary:
+
+Rose Gold (#B76E79)
+
+Secondary:
+
+Blush Pink (#F8E8EE)
+
+Accent:
+
+Champagne Gold (#D4AF37)
+
+Background:
+
+Ivory (#FFFDF9)
+
+Dark Text:
+
+#2C2C2C
+
+Light Background Sections:
+
+#FAF7F5
+
+Buttons:
+Elegant Rose Gold with smooth hover animation.
+
+Fonts
+
+Use premium Google Fonts.
+
+Heading:
+Playfair Display
+
+Body:
+Poppins
+
+Buttons:
+Poppins SemiBold
+
+The typography should feel luxurious and modern.
+
+Animations
+
+Include premium animations throughout the website.
+
+Examples:
+
+Fade up while scrolling
+Image reveal animations
+Text reveal
+Floating decorative elements
+Hover lift effects
+Button ripple effects
+Smooth page scrolling
+Animated counters
+Before-after image slider
+Elegant card hover
+Smooth section transitions
+Gradient glow effects
+Parallax hero background
+Floating beauty icons
+Animated testimonial cards
+
+Animations should be smooth and not distracting.
+
+Navigation
+
+Sticky navigation with blur effect.
+
+Menu:
+
+Home
+About
+Services
+Gallery
+Testimonials
+Contact
+
+Right side:
+
+Book Appointment button
+
+Hero Section
+
+Large luxury hero banner.
+
+Include:
+
+Large heading
+
+Example:
+
+"Where Beauty Meets Confidence"
+
+Subheading:
+
+Experience premium beauty services exclusively designed for women in a luxurious and relaxing environment.
+
+Buttons:
+
+Book Appointment
+
+Call Now
+
+Hero image:
+
+Luxury salon interior or elegant beauty treatment imagery.
+
+Background with subtle gradient animation.
+
+About Section
+
+Title:
+
+Welcome to FLOURISHH
+
+Include a premium story describing the salon.
+
+Mention:
+
+Women's Only Salon
+Experienced Professionals
+Hygiene First
+Premium Products
+Personalized Beauty Services
+Relaxing Environment
+
+Include elegant icons.
+
+Why Choose Us
+
+Create icon cards.
+
+Examples:
+
+✔ Experienced Stylists
+
+✔ Premium Products
+
+✔ Hygienic Environment
+
+✔ Personalized Consultation
+
+✔ Relaxing Ambience
+
+✔ Affordable Luxury
+
+Each card should animate while scrolling.
+
+Services Section
+
+Create beautiful service cards.
+
+Include:
+
+Hair Services
+
+Hair Cut
+Hair Spa
+Hair Coloring
+Hair Smoothening
+
+Skin Care
+
+Cleanup
+Facial
+Detan
+Skin Treatments
+
+Makeup
+
+Party Makeup
+Bridal Makeup
+Engagement Makeup
+
+Nail Care
+
+Manicure
+Pedicure
+Nail Art
+
+Waxing
+
+Threading
+
+Eyebrows
+
+Bridal Packages
+
+Each card should have:
+
+Icon
+Image
+Description
+Hover animation
+Gallery
+
+Beautiful masonry gallery.
+
+Luxury salon photos.
+
+Include:
+
+Hair styling
+
+Facials
+
+Bridal makeup
+
+Salon interiors
+
+Hair coloring
+
+Beauty treatments
+
+Use lightbox preview.
+
+Images should animate on hover.
+
+Before & After Section
+
+Create an interactive before-after image comparison slider.
+
+Include sample makeover images.
+
+Statistics Section
+
+Animated counters.
+
+Examples:
+
+1100+
+
+Happy Reviews
+
+5000+
+
+Happy Clients
+
+10+
+
+Beauty Experts
+
+100%
+
+Customer Satisfaction
+
+Testimonials
+
+Luxury testimonial slider.
+
+Display:
+
+★★★★★
+
+Customer Name
+
+Review
+
+Include several realistic testimonials.
+
+Mention the Google rating:
+
+⭐ 4.8 (1.1K+ Reviews)
+
+Appointment Section
+
+Beautiful booking form.
+
+Fields:
+
+Name
+Phone
+Service
+Preferred Date
+Preferred Time
+Message
+
+Submit Button:
+
+Book Appointment
+
+Show success animation after submission.
+
+Contact Section
+
+Display:
+
+Business Name
+
+Phone
+
+9623982583
+
+Address
+
+Shop No. 10, Kumar Piccadilly,
+Bhumkar Chowk Rd,
+Near Akshara International School,
+Wakad,
+Pune, Maharashtra 411033
+
+Include:
+
+Google Map embed
+
+Call button
+
+Directions button
+
+WhatsApp button
+
+Floating Buttons
+
+Sticky floating buttons:
+
+WhatsApp
+
+Call
+
+Back to Top
+
+Footer
+
+Include:
+
+Business Name
+
+Quick Links
+
+Contact
+
+Address
+
+Phone
+
+Opening Hours
+
+Social Media Icons
+
+Copyright
+
+Extra Premium Features
+
+Add:
+
+✔ Glassmorphism cards
+
+✔ Soft shadows
+
+✔ Animated gradients
+
+✔ Floating decorative shapes
+
+✔ Scroll progress indicator
+
+✔ Elegant loading screen
+
+✔ Cursor hover effects
+
+✔ Image lazy loading
+
+✔ SEO-friendly structure
+
+✔ Accessibility best practices
+
+✔ Fast loading
+
+✔ Responsive on all devices
+
+✔ Modern HTML5 + CSS3 + JavaScript
+
+✔ Smooth scrolling
+
+✔ Clean component structure
+
+✔ Optimized images
+
+Technical Requirements
+Build using React with Vite.
+Use Tailwind CSS for styling.
+Use Framer Motion for animations.
+Use Lucide React for icons.
+Organize code into reusable components.
+Ensure the site is fully responsive for mobile, tablet, and desktop.
+Optimize for performance, accessibility, and SEO.
+Include semantic HTML, descriptive meta tags, Open Graph tags, and Local Business schema (JSON-LD).
+Content Requirements
+
+Write polished, professional copy suitable for a premium beauty salon. Avoid placeholder text like "Lorem Ipsum." Use elegant wording that inspires trust and highlights quality, hygiene, expertise, and customer satisfaction.
